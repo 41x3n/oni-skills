@@ -1,6 +1,6 @@
 {
   "name": "oni",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Lean engineering skill pack: spark (design + approval gate), plan (one WORK.md), build (tests first, delegation, model routing), debug (root cause first), guard (trust boundaries on input paths), ship (evidence gate), oni-go / oni-py / oni-ts language rules, and oni-tune (rule drift checks).",
   "author": {
     "name": "Anindya Chowdhury",

@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.1] - 2026-11-21
+
+### Changed
+
+- CI: `actions/checkout` 4.2.2 to 7.0.1 and `actions/setup-python` 5.6.0 to 7.1.0, still pinned by commit SHA.
+
 ## [0.1.0] - 2026-11-21
 
 ### Added
@@ -32,5 +38,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - CI actions are pinned to commit SHAs and watched by Dependabot. `CODEOWNERS` and a supply
   chain note in `SECURITY.md` were added.
 
-[Unreleased]: https://github.com/41x3n/oni-skills/compare/v0.1.0...HEAD
+[Unreleased]: https://github.com/41x3n/oni-skills/compare/v0.1.1...HEAD
+[0.1.1]: https://github.com/41x3n/oni-skills/compare/v0.1.0...v0.1.1
 [0.1.0]: https://github.com/41x3n/oni-skills/releases/tag/v0.1.0

@@ -10,7 +10,7 @@
     {
       "name": "oni",
       "description": "spark, plan, build, debug, guard, ship, oni-tune, and Go/Python/TypeScript rules. Built to cut context residency, not just skill length.",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "author": {
         "name": "Anindya Chowdhury",
         "url": "https://github.com/41x3n"
