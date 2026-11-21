@@ -1,0 +1,13 @@
+{
+  "name": "oni",
+  "version": "0.1.0",
+  "description": "Lean engineering skill pack: spark (design + approval gate), plan (one WORK.md), build (tests first, delegation, model routing), debug (root cause first), guard (trust boundaries on input paths), ship (evidence gate), oni-go / oni-py / oni-ts language rules, and oni-tune (rule drift checks).",
+  "author": {
+    "name": "Anindya Chowdhury",
+    "url": "https://github.com/41x3n"
+  },
+  "homepage": "https://github.com/41x3n/oni-skills",
+  "repository": "https://github.com/41x3n/oni-skills",
+  "license": "MIT",
+  "keywords": ["claude-code", "codex", "skills", "workflow", "tdd", "code-review"]
+}

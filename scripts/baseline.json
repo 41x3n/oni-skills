@@ -1,0 +1,51 @@
+{
+  "go": {
+    "bare_any": 251,
+    "bare_go_func": 15,
+    "ctx_first_param": 304,
+    "defer_close": 157,
+    "errgroup_or_waitgroup": 7,
+    "errorf_pct_v": 23,
+    "errorf_pct_w": 261,
+    "ignored_error": 31,
+    "io_without_ctx": 24,
+    "panic": 1,
+    "slog": 139,
+    "stdlib_log": 8,
+    "_files": 210,
+    "_files_src": 119
+  },
+  "py": {
+    "async_def": 470,
+    "async_http": 39,
+    "basemodel": 956,
+    "blocking_sleep": 37,
+    "broad_except": 368,
+    "dict_str_any": 353,
+    "except_pass": 25,
+    "logger": 503,
+    "print_call": 425,
+    "sync_requests": 3,
+    "untyped_params": 1542,
+    "_files": 1488,
+    "_files_src": 954
+  },
+  "ts": {
+    "any_annotation": 141,
+    "as_const": 311,
+    "console_log": 72,
+    "double_cast": 117,
+    "floating_then": 6,
+    "loose_eq": 37,
+    "non_null_assert": 58,
+    "optional_chain": 1247,
+    "real_cast": 598,
+    "ts_ignore": 1,
+    "unknown_annotation": 486,
+    "zod": 760,
+    "_files": 1561,
+    "_files_src": 1374
+  },
+  "_roots": [],
+  "_generated": "2026-09-22"
+}
